@@ -1,0 +1,1094 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="get_kundali_report">Get Kundli Report</string>
+    <string name="view_astro_compatability">Get Kundli Report</string>
+    <string name="block">Block</string>
+    <string name="view_contect_details">View Contact Details</string>
+    <string name="unbock">Unblock</string>
+    <string name="sms_details">Get as SMS</string>
+    <string name="sms_sent">SMS sent successfully</string>
+    <string name="verification_sent_msg">Verification code sent to </string>
+    <string name="verification_sent_msg_reset">Verification code sent to registered Email and Phone number</string>
+    <string name="verification">Profile Verification</string>
+    <string name="resend_btn_msg">Resend Code</string>
+    <string name="verify">VERIFY</string>
+    <string name="verify_edit">Verify</string>
+    <string name="please_enter_code">Please enter the code</string>
+    <string name="success_msg_with_num">has been verified by Jeevsansathi</string>
+    <string name="date_incorrect_msg">Your phone date is incorrect! Adjust your clock and try again.</string>
+    <string name="tv_your_email">Your email id</string>
+    <string name="tv_your_phone">Your Phone no</string>
+    <string name="time_label">Suitable Time (IST)</string>
+    <string name="query_label">What type of query do you have</string>
+    <string name="date_label">Suitable Date</string>
+    <string name="submit_request">Submit Request</string>
+    <string name="request_callback_label">Request Callback</string>
+    <string name="please_enter_email">Please enter the email</string>
+    <string name="please_enter_phone">Please enter the phone number</string>
+    <string name="provide_valid_email">Provide valid email id</string>
+    <string name="please_provide_valid_reason">Please provide a valid reason</string>
+    <string name="please_provide_valid_decription">Please enter a minimum of 25 characters</string>
+    <string name="request_callback_success_msg">We shall call you at the earliest</string>
+    <string name="success">Success</string>
+    <string name="visible_all">Visible to all ( Recommended )</string>
+    <string name="show_my_profile_to_all">Show my profile to all ( Recommended )</string>
+    <string name="show_my_profile_to_my_filtered">Show only to users who pass my filters</string>
+    <string name="show_my_profile_to_my_contacted_profile">Dont show to anyone, i will search and contact profiles </string>
+    <string name="visible_paid_mem">Show to All Paid Members</string>
+    <string name="visible_accepted_mem">Show to only Members I Accept/Express Interest In</string>
+    <string name="visible_none">Visible to those you have accepted or expressed interest in</string>
+    <string name="choose_option">Choosing this option will reduce response from other members</string>
+    <string name="show_to_all">Show to all</string>
+    <string name="name_privacy_label">Name Privacy Settings</string>
+    <string name="submit">Submit</string>
+    <string name="show_name_msg">Show to all</string>
+    <string name="dont_show_name">Don\'t show</string>
+    <string name="provide_name">Provide Your Name</string>
+    <string name="your_name_hint_msg">Your Name</string>
+    <string name="tv_screen_msg">This field will be screened</string>
+    <string name="dont_show_msg">You will also not be able to see names of other members</string>
+    <string name="provide_full_name">Please provide a valid Full Name</string>
+    <string name="provide_first_name">Please provide your first name along with surname,not just the first name</string>
+    <string name="show_name_none_subtitle">you will not be able to see names of other members</string>
+    <string name="title_activity_report_invalid">ReportInvalidActivity</string>
+    <string name="interest_received">Interests\nReceived</string>
+    <string name="accepted_members">Accepted\nMembers</string>
+    <string name="just_joined_matches">Just Joined\nMatches</string>
+    <string name="create_horoscope_toast">Please select a value for \'Horoscope Match is must?\' to proceed</string>
+    <string name="desired_partner">Desired Partner</string>
+    <string name="Horoscope_match_is">Horoscope match is</string>
+
+    <string name="chat_now">Chat Now</string>
+    <string name="chat_online">ONLINE</string>
+    <string name="chat_accepted">ACCEPTED</string>
+    <string name="chat_interests">INTERESTS</string>
+    <string name="call_logs">CALLS</string>
+
+    <string name="Rs">\u20B9</string>
+    <string name="dollar">"\u0024"</string>
+
+    <string name="app_name">Jeevansathi</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">LOGIN</string>
+    <string name="logout">Logout</string>
+    <string name="search">Search</string>
+
+    <string name="tollfree_number">18004196299</string>
+    <string name="tollfree_number_with_dash">1800&#8211;419&#8211;6299</string>
+    <string name="toll_free_label">1800&#8211;419&#8211;6299 Toll Free</string>
+
+    <string name="interestSentTabText">\'Send Reminder\' to improve response to Interests</string>
+    <string name="expiringInterestTabText">These interests are expiring this week and will be removed from your Inbox. Please Accept/Decline</string>
+    <string name="filteredInterestTabText">These interests do not match your filters. If some of these interests are relevant, please Edit Filters</string>
+    <string name="delete_profile_pic_text">You cannot delete the profile picture. Please select another photo as profile picture to delete this picture</string>
+    <string name="register">REGISTER</string>
+    <string name="hint_username_forgot">Registered Email/Phone Number</string>
+    <string name="forgot_password_button">SEND</string>
+    <string name="staticTextForgotPassword">Enter your registered email/phone number to reset password</string>
+    <string name="hint_password">Password *</string>
+    <string name="hint_username">Email id *</string>
+    <string name="hint_username_phone">Email id/Phone number *</string>
+    <string name="forgot_your_password">Forgot password?</string>
+    <string name="jeevansathi">Jeevansathi</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="image_unavailable">Image unavailable!</string>
+    <string name="name">NameNameN</string>
+    <string name="age_and_height">Age and Height</string>
+    <string name="job_role">Job role</string>
+    <string name="cast">Cast</string>
+    <string name="income">Income</string>
+    <string name="occupation">Occupation</string>
+    <string name="qualification">Qualification</string>
+    <string name="native_place">Native Place</string>
+    <string name="current_location">Current location</string>
+    <string name="message">Some Message Here!</string>
+    <string name="bride">F</string>
+    <string name="bride_text">Bride</string>
+    <string name="groom_text">Groom</string>
+    <string name="age_from_bride">18</string>
+    <string name="age_from_groom">21</string>
+
+    <string name="religion">Religion</string>
+    <string name="select_religion">Select Religion</string>
+    <string name="caste">Caste</string>
+    <string name="select_caste">Select Caste</string>
+    <string name="city">City *</string>
+    <string name="residency_mandatory">Residential Status *</string>
+    <string name="residency_status">Residential Status</string>
+    <string name="city_state">City/State</string>
+    <string name="select_city_state">Select City/State</string>
+    <string name="country_city">Country/City</string>
+    <string name="country">Country</string>
+    <string name="select_country">Select Country</string>
+    <string name="select_city">Select City</string>
+    <string name="sect">Sect</string>
+    <string name="select_sect">Select Sect</string>
+    <string name="done">Done</string>
+    <string name="apply_results">APPLY</string>
+    <string name="loading_msg">Loading…</string>
+    <string name="ok">OK</string>
+    <string name="reset">Reset</string>
+    <string name="all_profile">All Profiles</string>
+    <string name="more">More</string>
+    <string name="title_family_details_page">Family Details</string>
+    <string name="next">NEXT</string>
+    <string name="marital_status">Marital Status</string>
+    <string name="select_marital_status">Select Marital Status</string>
+    <string name="have_children">Have Children</string>
+    <string name="profile_managed_by">Profile Managed by</string>
+    <string name="mother_tongue">Mother Tongue</string>
+    <string name="select_mother_tongue">Select Mother Tongue</string>
+    <string name="jamaat">Jamaat</string>
+    <string name="highest_education">Highest Education</string>
+    <string name="height">Height</string>
+    <string name="dob">Date of birth</string>
+    <string name="email">Email ID</string>
+    <string name="alt_email">Alternate Email ID</string>
+    <string name="verified">Verified</string>
+    <string name="email_verification_msg">A link has been sent to your email id %1$s, click on the  link to verify your email</string>
+    <string name="both_email_same">Both email id are same</string>
+    <string name="both_num_same">Both Mobile Number are same</string>
+    <string name="email_verification">Email Verification</string>
+    <string name="mobile">Phone Number</string>
+    <string name="mobile_edit">Mobile Number</string>
+    <string name="terms">I agree to terms and conditions</string>
+    <string name="perform_search">PERFORM A SEARCH NOW</string>
+    <string name="not_filled_in">Not filled</string>
+    <string name="hint_for_saved_search">Provide a name to your search</string>
+    <string name="saved_search_limit">Saved searches limit reached. Tap on \'Manage\' to delete one </string>
+    <string name="saved_search_upto">You can save up to %S searches \n Delete 1 or More saved search to save more </string>
+
+    <string name="sending">Sending</string>
+    <string name="sent">Sent</string>
+
+
+    <!-- Roboto Font=========================================== -->
+    <string name="sans_serif_light">sans-serif-light</string>
+    <string name="sans_serif">sans-serif</string>
+    <string name="sans_serif_regular">sans-serif-regular</string>
+    <string name="sans_serif_medium">sans-serif-medium</string>
+    <string name="roboto_bold">Roboto-Bold</string>
+    <string name="roboto_medium">Roboto-Medium</string>
+    <string name="roboto_regular">Roboto-Regular</string>
+    <string name="title_activity_another">AnotherActivity</string>
+    <string name="label_no_message">No Message</string>
+    <string name="do_you">Do you want to save the changes made before navigating away from this view?</string>
+    <string name="warning">Warning</string>
+    <!-- Phone Verify=========================================== -->
+    <string name="to_verify_num">To verify your number</string>
+    <string name="call_customare">Call Customer Care</string>
+    <string name="email_us">Email us at</string>
+    <string name="mention_no">Confirm the number you want to verify</string>
+    <string name="we_will_send">We will send verification code to this number</string>
+    <string name="verify_this_number">Verify this Number</string>
+    <string name="verification_underprogress">Verification Under Progress</string>
+    <string name="did_not_receive_code">Didn\'t receive code? </string>
+    <string name="oops_incorrect_code"><b>Oops! Incorrect code.</b></string>
+    <string name="make_sure_correct_code">Make sure you have entered correct code.</string>
+    <string name="try_again">TRY AGAIN</string>
+    <string name="resend_vefification_code">Resending Verification Code</string>
+    <string name="wait_resend_vefification_code">Wait for a moment while we send you the code.</string>
+    <string name="title_interests_received">Interests Received</string>
+    <string name="title_profile_visitors">Profile Visitors</string>
+    <string name="title_recently_viewed_profiles">Profiles I Viewed</string>
+    <string name="title_recent_searches">Recent Searches</string>
+    <string name="title_online_matches">Online matches</string>
+
+    <string name="continu">Continue</string>
+    <string name="continue_text">Continue</string>
+    <string name="phone_error_msg">Phone verification was not successful</string>
+    <string name="title_activity_filter_settings">Manage Strict Filters</string>
+    <string name="num_verify">Phone Verification successful</string>
+    <string name="verify_num">Verify Number</string>
+    <string name="about_yourself_label">Tell us some more about yourself and what kind of person you are.</string>
+    <string name="about_yourself_disclaimer_label">All the content written here will be screened before the profile is made live.</string>
+    <string name="keyboard_change_text">हिंदी में लिखने के लिए अपना कीबोर्ड बदलें।</string>
+
+    <string name="about_yourself_label_hi">हमें और अपने जीवन साथी को अपने या अपने व्यक्तित्व के बारे में बताएं।</string>
+    <string name="about_yourself_disclaimer_label_hi">इस पाठ का परीक्षण हमारी टीम द्वारा किया जाएगा।</string>
+
+    <string name="about_yourself">About Me</string>
+    <string name="about_yourself_hint">Write here</string>
+    <string name="about_yourself_hint_new">Write minimum of %s words. You can change this text later on as well.</string>
+    <string name="about_yourself_hint_hi">यहाँ लिखें</string>
+    <string name="help">Help</string>
+    <string name="about_yourself_provide_atleast_25_words">Please write a minimum of %s words.</string>
+    <string name="about_yourself_provide_too_short">The text appears to be too short. Kindly write more words</string>
+
+
+    <string name="city_living_in">City living in</string>
+    <string name="country_living_in">Country living in</string>
+    <string name="state_living_in">State living in</string>
+    <string name="title_activity_about_us">AboutUsActivity</string>
+    <string name="title_activity_rate_us">RateUsActivity</string>
+    <string name="remind_me_later"><u>Remind Me Later</u></string>
+    <string name="create_profile_for">Create Profile For</string>
+    <string name="create_horoscope">Create Horoscope</string>
+    <string name="user_has_not_uploaded_horoscope">User has not uploaded horoscope</string>
+    <string name="horoscope_requested">Horoscope Requested</string>
+    <string name="janampatri_requested">Horoscope Requested</string>
+    <string name="gender">Gender</string>
+    <string name="title_activity_about_us_legal">AboutUsLegalActivity</string>
+    <string name="message_empty">Write a message</string>
+    <string name="upgrade_membership_msg">Upgrade Your Membership</string>
+    <string name="mp_back_warning_msg">You cannot go back to the previous screen, please navigate using the app.</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="refer_a_friend">Refer a Friend?</string>
+    <string name="membership_title">Premium Membership</string>
+    <string name="behavior_rate_us_dialog_content_plural">Wow! You recently connected with %1$d members. Would you give us a 5 star rating?</string>
+    <string name="behavior_rate_us_dialog_content_singular">Wow! You recently connected with %1$d member. Would you give us a 5 star rating?</string>
+    <string name="behavior_membership_dialog_content_plural">Wow! You just got %1d acceptances.Would you like to check our membership plans which let you contact them?</string>
+    <string name="behavior_membership_dialog_content_singular">Wow! You just got %1d acceptance.Would you like to check our membership plans which let you contact them?</string>
+
+
+    <string name="behavior_refer_dialog_content_plural"><![CDATA[ We are glad you got %1$d acceptances. Refer a friend and both of you get extra 200 off* on Membership <br/><small>*Refer T&amp;C</small>]]></string>
+    <string name="behavior_refer_dialog_content_singular"><![CDATA[ We are glad you got %1$d acceptance. Refer a friend and both of you get extra 200 off* on Membership <br/><small>*Refer T&amp;C</small>]]></string>
+
+    <string name="later">LATER</string>
+    // Default value for height and income
+
+    <string name="report_abuse">Report as Fake/Spam</string>
+    <string name="submit_abuse_report">Submit Abuse Report </string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="report_invalid_multilineAlt">Report\nInvalid Alt</string>
+    <string name="report_invalid_multiline">Report\nInvalid</string>
+    <string name="call">call</string>
+    <string name="report_invalid_multilineLandLine">Report\nInvalid Landline</string>
+    <string name="report_invalid">Report Invalid</string>
+    <string name="notification_sound">Notification Sound</string>
+    <string name="update_desired_partner_profile">Update Desired Partner Profile</string>
+    <string name="relax_your_criteria">Relax Your Desired Partner Criteria</string>
+    <string name="archived_interest">Archived Interests</string>
+    <string name="two_way_matching_interests">Mutual Matching Interests</string>
+    <string name="dpp_cal_error">Select values which you wish to add to your partner preference and submit</string>
+    <string name="call_feature_not_available">You cannot call from this device as it does\'t have a SIM card</string>
+    <string name="real_time_chat_new_online_member">Update Online Members</string>
+    <string name="real_time_chat_contacts_blank_message">You do not have any matches Online.\nKindly broaden your Desired Partner Profile to get more matches</string>
+    <string name="real_time_chat_interestmessage_blank_message">Messages exchanged with accepted members will appear here.</string>
+    <string name="syncing_your_contact">Syncing</string>
+    <string name="blank_interest_received_text">Interests received in the last 45 days but not responded to will appear here.</string>
+    <string name="blank_interest_received_text_click">View Archived Interests</string>
+    <string name="caste_no_bar_text">Caste no bar</string>
+    <string name="caste_no_bar_microcopy">I am open to marry people of all castes</string>
+    <string name="interests">Interests</string>
+    <string name="pending_interests">Pending Interests</string>
+    <string name="sample_astro_title">Sample Kundli Report Sent</string>
+    <string name="astro_report_title">Generating Kundli Milan Report</string>
+    <string name="astro_download_success_msg">Please check your downloads folder for the Kundli</string>
+    <string name="astro_download_error_msg">Something went wrong while fetching the report. Please try again.</string>
+    <string name="irrelevant_interest">Irrelevant \nInterests?</string>
+    <string name="sample_astro_msg_upgrade_memship">A sample kundli report has been sent to your Email ID. Upgrade to a Paid membership and buy Kundli Report add-on to access these reports for your matches.</string>
+    <string name="sample_astro_msg_buy_astro">A sample kundli report has been sent to your Email ID. Upgrade for Kundli add-ons.</string>
+    <string name="astro_report_msg">Your Kundli Milan Report with the member is being generated  &amp; will be sent to your registered Email id.</string>
+    <string name="down_horoscope_msg">Please check your downloads folder for the horoscope</string>
+    <string name="create_horoscope_to_see_guna_score">Create Horoscope to see Guna Match with this user.</string>
+    <string name="btn_request_horoscope">Request Horoscope</string>
+
+    <string name="upgrade_mem_btn">Upgrade Membership</string>
+    <string name="buy_astro_btn">Buy Kundli Report</string>
+    <string name="down_horoscope_title">Horoscope Downloaded</string>
+    <string name="upload_more_sugg">75% of our users feel they need atleast 3 photos to send an expression of interest\u2026 Upload more</string>
+    <string name="profile_photo_select_mssg">Click on \'NEXT\' to make this your profile picture</string>
+    <string name="edit_dpp_msg">Edit Desired Partner Profile</string>
+    <string name="no_dpp_sugg_msg">No Desired Partner Suggestions found, Please revisit your Desired Partner Profile in detail and broaden it wherever possible</string>
+    <string name="just_joined_blank_msg">There are no recently joined profiles matching your Desired Partner Profile. Please broaden your Desired Partner Profile to see more matches.</string>
+    <string name="desired_partner_blank_msg">There are no profiles matching your Desired Partner Profile. Please broaden your Desired Partner Profile to see more matches.</string>
+    <string name="occupation_updation_title_text">Update Occupation Details</string>
+    <string name="occupation_updation_detail_text">You have chosen \'others\' as your occupation.We have expanded our list and would like you to choose an occupation most closely matching with your profession.</string>
+    <string name="select_occupation">Select Occupation</string>
+    <string name="select_employed_in">Select Employed In</string>
+    <string name="cal_enter_your_occupation">Enter your occupation</string>
+    <string name="cal_enter_your_city">Enter your city</string>
+
+    <string name="report_abuse_incorrect_details">One or more of Profile Details are incorrect</string>
+    <string name="her_prefernce">Her Preference</string>
+    <string name="his_prefernce">His Preference</string>
+    <string name="matches_you">Matches You</string>
+    <string name="dpp_tick_score">%1$s of %2$s Matching</string>
+
+
+    <string name="cal_i_didnt_find_my_occupation">I didn\'t find my occupation</string>
+    <string name="select_city_only">Select City</string>
+    <string name="select_state">Select State</string>
+    <string name="prompt_please_select_occupation">Please select occupation</string>
+    <string name="prompt_please_enter_occupation">Please enter occupation</string>
+    <string name="prompt_please_enter_city">Please enter city</string>
+    <string name="prompt_please_enter_residency_status">Please enter residential status</string>
+    <string name="prompt_please_enter_income">Please enter annual income</string>
+    <string name="prompt_please_select_state_and_city">Please select state and city</string>
+    <string name="prompt_please_select_country">Please select country</string>
+    <string name="prompt_please_select_subcaste">Please select subcaste</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="family_based_out_of">Family based out of</string>
+    <string name="family_based_out">Family based out</string>
+    <string name="no_recent_search">Your recent searches will show here</string>
+    <string name="no_recent_profileview">Your recent profile views will show here</string>
+    <string name="paid_membership_highpitch_cl_offer_text">Lowest membership starts @ </string>
+    <string name="action_btn_sent_interest_callout_msg">Send them an interest so that they can contact you if they choose </string>
+    <string name="settings_privacy_settings">Privacy Settings</string>
+    <string name="chat_fallback_screen_msg">Click here to see messages</string>
+    <string name="chat_zero_acceptance_screen_msg">Go to My Messages</string>
+    <string name="chat_zero_acceptance_screen">Messages exchanged with accepted members will appear here.</string>
+    <string name="chat_acceptance_screen">Initiate a conversation with your \nacceptances here!\n\nCheck out our safety tips before starting a chat!\n\n</string>
+    <string name="chat_empty_acceptence_interest_screen">%s \n\nCheck out more such safety tips before starting a conversation\n\n</string>
+    <string name="safety_tips">safety tips</string>
+    <string name="SAFETY_TIP">SAFETY TIP</string>
+    <string name="safety_tip_msg">Protect yourself by never sharing any personal information to avoid mishaps</string>
+    <string name="safety_tip_1">Get to know the prospect on jeevansathi chat/call first before you share your personal contact!</string>
+    <string name="safety_tip_2">In order to keep your personal contacts secure, you can hide your phone number through your privacy setting</string>
+
+    <string name="click_here_to_view_all_interests">Click here to view all Interests</string>
+    <string name="start_talking_to_members_you_are_interested_in">Start talking to members you are interested in by sending them messages.</string>
+    <string name="empty_interest_message">Messages exchanged with members you express interest to or get interest from will appear here.</string>
+
+    <!--similar profiles-->
+    <string name="similar_profiles">Similar Profiles</string>
+
+    <!--snackbar actions-->
+    <string name="undo">undo</string>
+
+    <!--snackbar text-->
+    <string name="profile_blocked">Profile blocked</string>
+    <string name="profile_unblocked">Profile unblocked</string>
+
+    <!--contact engine actions-->
+    <string name="shortlist">Shortlist</string>
+    <string name="contact">Contact</string>
+    <string name="photos">Photos</string>
+    <string name="photos_videos">Photos/Videos</string>
+    <string name="settings_privacy_settings_phone">Phone Privacy Settings</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="we_do_not_post_on_facebook">We do not post anything on Facebook</string>
+    <string name="fb_married_dialog_title">We care for you</string>
+    <string name="fb_married_dialog_message">Believe us, It is practically impossible to manage two life partners at a same time\n\nStay happily married</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <!--search form-->
+    <string name="min_height">Min. Height</string>
+    <string name="max_height">Max. Height</string>
+    <string name="min_age">Min. Age</string>
+    <string name="max_age">Max. Age</string>
+    <string name="min_income">Min. Income</string>
+    <string name="max_income">Max. Income</string>
+
+    <string name="min_income_rs">Min. Income (\u20B9)</string>
+    <string name="max_income_rs">Max. Income (\u20B9)</string>
+
+    <string name="min_income_dollar">Min. Income ($)</string>
+    <string name="max_income_dollar">Max. Income ($)</string>
+    <string name="search_form_with_photo">With photo</string>
+
+    <string name="inbox_listing_toolbar_title_declined_members">Declined Members</string>
+    <string name="inbox_listing_toolbar_title_accepted_members">Accepted Members</string>
+    <string name="inbox_listing_toolbar_title_who_viewed_my_contacts">Who Viewed My Contacts</string>
+    <string name="inbox_listing_toolbar_title_shortlisted_profiles">Shortlisted Profiles</string>
+    <string name="inbox_listing_toolbar_title_blocked_profiles">Blocked/Ignored</string>
+    <string name="inbox_listing_toolbar_title_filtered_interest">Filtered Interests</string>
+    <string name="inbox_listing_toolbar_title_bonus_recommendation">New Recommendation</string>
+    <string name="inbox_listing_toolbar_title_similar_profiles">Profiles you may like</string>
+    <string name="inbox_listing_toolbar_title_phonebook">Phonebook</string>
+    <string name="tab_title_accepted_me">ACCEPTED ME</string>
+    <string name="tab_title_accepted_by_me">ACCEPTED BY ME</string>
+    <string name="tab_title_i_declined">I DECLINED</string>
+    <string name="tab_title_they_declined">THEY DECLINED</string>
+    <string name="tab_title_profile_visitors">PROFILE VISITORS</string>
+    <string name="tab_title_matching_visitors">MATCHING VISITORS</string>
+    <string name="tab_title_expiring_interest">Expiring Interest</string>
+    <string name="tab_title_interest_recieved">RECEIVED</string>
+    <string name="tab_title_interest_sent">SENT</string>
+    <string name="change_dpp_tuple_text">Matches are based on your Desired Partner Profile, Would you like to change it?</string>
+    <string name="do_not_hesitate">Do not hesitate! Take the first step and contact now. One of them might be your soulmate</string>
+
+    <string name="change_dpp_tuple_positive_button_text">CHANGE CRITERIA</string>
+    <string name="edit_filter_tuple_positive_button_text">EDIT FILTERS</string>
+    <string name="change_dpp_tuple_negative_button_text">NOT NOW</string>
+
+    <string name="rcb_positive_button_text">Yes, call me</string>
+    <string name="change_desired_partner_text">CHANGE DESIRED PARTNER PROFILE CRITERIA</string>
+    <string name="no_result_found">No Results Found</string>
+    <string name="slider_inr">INR(₹)</string>
+    <string name="slider_usd">USD($)</string>
+    <string name="spinner_text_minimum_income">Minimum Income</string>
+    <string name="spinner_text_maximum_income">Maximum Income</string>
+
+    <string name="slider_age">Age</string>
+    <string name="spinner_text_minimum_age">Minimum Age</string>
+    <string name="spinner_text_maximum_age">Maximum Age</string>
+
+
+    <string name="slider_height">Height</string>
+    <string name="spinner_text_minimum_height">Minimum Height</string>
+    <string name="spinner_text_maximum_height">Maximum Height</string>
+    <string name="search_filter_title">Refine</string>
+    <string name="reset_filter">CLEAR</string>
+    <string name="filter_search_bar_hint_text">Search</string>
+    <string name="filter_all_profiles">All Profiles</string>
+    <string name="filter_online_profiles">Online Profiles</string>
+
+
+    <string name="myjs_acceptance_label">Acceptances</string>
+    <string name="myjs_justjoined_label">Just Joined</string>
+    <string name="send_interest">SEND INTEREST</string>
+    <string name="recent_activity">Recent Activity</string>
+    <string name="notification_label">Notifications</string>
+    <string name="verified_by_visit">Verified by visit</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="aadhaar_titile">Provide your Aadhaar no. and verify</string>
+    <string name="aadhaar_num_verified">Verified</string>
+    <string name="aadhar_not_verified">Not verified</string>
+    <string name="aadhaar_titile__below_aadhaar_cal">Your Aadhaar number will not be visible on site.</string>
+    <string name="see_all">more</string>
+    <string name="your_name">Name (as per Aadhaar)</string>
+    <string name="consent">Consent</string>
+    <string name="verifying_details">Verifying details…</string>
+    <string name="aadhaar_consent_not_accepted_text">Consent is needed to verify</string>
+    <string name="aadhaar_num_invalid">Invalid aadhaar number</string>
+    <string name="skip">Skip</string>
+    <string name="provide_aadhaar_num">Provide gen Aadhaar no.</string>
+    <string name="aadhaar_skip_mssg">We strongly advise you to verify Aadhaar to increase credibility of your profile.
+        \n\nYou can verify your Aadhaar number any time from \'Basic Details\' section.
+        \n\nWe will remind you later to verify your Aadhaar. Keep the Aadhaar number handy.</string>
+    <string name="consent_legal_text">I, the holder of Aadhaar number, hereby give my consent to Baldor Technologies Private Limited, to obtain my Aadhaar number, name, date of birth, address and demographic data for authentication with UIDAI. Baldor Technologies Private Limited has informed me that my identity information would only be used for a background check or a verification of my identity and has also informed me that my biometrics will not be stored/ shared and will be submitted to CIDR only for the purpose of authentication. I have no objection if reports generated from such background check are shared with relevant third parties.</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="upload_photo_cal_text1">It has been a while since you registered on Jeevansathi, hence we require you to add a photo to be able to see other members’ album.</string>
+    <string name="upload_photo_cal_text2">If you have privacy concerns, you can make your photo visible only to serious paid members or only on acceptance through privacy settings</string>
+    <string name="login_to_continue">To Continue…</string>
+    <string name="attach_proof">Attach Screenshot</string>
+    <string name="select_picture">Select Picture</string>
+    <string name="max_attachment_report_abuse">You can attach maximum 5 proofs</string>
+    <string name="size_attachment_report_abuse">You can attach a proof less than 6MB in size</string>
+    <string name="cal_alt_email_desc">This will not be made visible to other profiles</string>
+    <string name="retry_verification">RETRY</string>
+    <string name="helpline_num">Helpline no. #</string>
+    <string name="max_attempts_exceeded">Maximum attempts exceeded</string>
+    <string name="verify_number_miss_call">VERIFY BY GIVING MISSED CALL</string>
+    <string name="cal_flash_subtitle">An opportunity you cannot miss</string>
+    <string name="interest_sent">INTEREST SENT</string>
+    <string name="max_attachment_report_rating">You can attach maximum 1 proof</string>
+
+    <string name="reg_education_label">Education</string>
+    <string name="reg_hint_highest_edu">Highest Education *</string>
+    <string name="reg_hint_college_university">College/University (optional)</string>
+
+    <string name="reg_hint_ug_degree">UG Degree (optional)</string>
+    <string name="reg_hint_ug_college">UG College (optional)</string>
+    <string name="reg_hint_other_ug_degree">Other UG Degree (optional)</string>
+
+    <string name="reg_add_another_edu">ADD ANOTHER EDUCATION</string>
+    <string name="reg_hint_income">Income *</string>
+    <string name="reg_hint_workarea">Occupation *</string>
+    <string name="reg_hint_marital_status">Marital Status *</string>
+    <string name="reg_hint_mother_tounge">Mother Tongue *</string>
+    <string name="reg_hint_religion">Religion *</string>
+    <string name="reg_hint_caste">Caste *</string>
+    <string name="reg_hint_sect">Sect *</string>
+    <string name="reg_hint_subcaste">Subcaste</string>
+    <string name="reg_hint_pg_degree">PG degree (optional)</string>
+    <string name="reg_hint_have_children">Have Children *</string>
+    <string name="confirm_basic_details"><![CDATA[You won\'t be allowed to edit the following fields after registration. Please edit NOW in case you want to make any changes to: <br /><br /><font color=\'274460\'>Gender: %1$s<br />Date of birth: %2$s</font>]]></string>
+    <string name="reg_hint_jammat">Jamaat</string>
+    <string name="reg_indicates_personel">*Indicates mandatory fields</string>
+    <string name="reg_hint_dob">Date of birth *</string>
+    <string name="reg_hint_height">Height *</string>
+    <string name="reg_hint_county">Country *</string>
+    <string name="reg_hint_state">State *</string>
+    <string name="reg_hint_pin">Pin Code *</string>
+    <string name="reg_family_profile_increase_title">You have completed your registration\nsuccessfully!\n5% increase in matches found for profiles \n with Family Details</string>
+    <string name="something_went_wrong_try_again">Something went wrong, please try again later</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="something_went_wrong_pic">Something went wrong, please try another one</string>
+    <string name="hi_guest">Hi Guest!</string>
+    <string name="no_information_available">No information available</string>
+
+    <string name="asset_statements" translatable="false">[{\n  \"relation\": [\"delegate_permission/common.handle_all_urls\"],\n  \"target\": {\n    \"namespace\": \"web\",\n    \"site\": \"https://www.jeevansathi.com\",\n  }\n}]</string>
+
+    <string name="verify_aadhar">Verify Your Aadhar</string>
+    <string name="aadhaar_intro_button">Verify Now</string>
+    <string name="aadhaar_intro_title">Get your profile Aadhaar verified</string>
+    <string name="aadhaar_intro_sub_title_1">Why Aadhaar?</string>
+    <string name="aadhaar_intro_sub_title_2">Is it safe?</string>
+    <string name="aadhaar_intro_sub_title_3">Benefits of Aadhaar verification</string>
+    <string name="aadhaar_intro_sub_title_4">What all I need?</string>
+    <string name="aadhaar_intro_content_1">We are moving towards a more secure platform by verifying our users\' Aadhaar number.</string>
+    <string name="aadhaar_intro_content_2">Yes 100%! Your Aadhaar number will NOT be stored or visible anywhere on the site.</string>
+    <string name="aadhaar_intro_content_3">1. Get featured in the list of Verified Matches\n2. Get 10 additional contact views if or when you become a paid member (except Basic membership)</string>
+    <string name="aadhaar_intro_content_4">1. Your 12 digit Aadhaar number\n2. Mobile registered against it for OTP authentication</string>
+    <string name="dont_ask_again">Don\'t show this again</string>
+    <string name="no_thanks">No, Thanks</string>
+    <string name="yes_sure">Yes, Sure</string>
+    <string name="save_filtered_search_msg">Would you like to save your search to retain the filters you have applied on your current search</string>
+    <string name="get_otp">GET OTP</string>
+    <string name="provide_email_phone">Provide Email/Phone</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="five_percent_increase_in_matches">5% increase in matches found for profiles with Profile Picture.</string>
+    <string name="set_your_profile_picture">Set your Profile Picture</string>
+    <string name="take_a_photo">Take a photo</string>
+    <string name="are_you_sure_to_delete_picture">Are you sure you want to delete the picture?</string>
+    <string name="upload_photo_or_skip_to_proceed">Please Upload Photo or press Skip to proceed.</string>
+    <string name="view_all">View All</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="accepted">Accepted</string>
+    <string name="declined">Declined</string>
+    <string name="notification_label_just_joined_matches">Just Joined Matches</string>
+    <string name="notification_label_interests_received">Interests Received</string>
+    <string name="notification_label_filtered_interests">Filtered Interests</string>
+    <string name="notification_label_accepted_me">Accepted Me</string>
+    <string name="notification_label_declined_cancelled">Declined / Cancelled</string>
+    <string name="notification_label_photo_requests">Photo Requests</string>
+    <string name="to_view_astro_compatibility_enter_birth_details">Dear user, to get kundli report with this user please enter your birth details and place of birth</string>
+    <string name="new_recommendation_for_you">Unlock %s new recommendations</string>
+    <string name="bottom_new_recommendation">Unlock %s new recommendations</string>
+    <string name="report_text">REPORT</string>
+    <string name="duplicate_profile_report_message">My Profile %1$s has been marked duplicate, please help me resolve this issue</string>
+
+    <string name="search_result_filtered_layout_header_text">Below profiles have filtered you out</string>
+    <string name="search_result_filtered_layout_summary_text_one">Filtered profiles are those profiles where you don\'t match their partner preferences.</string>
+    <string name="search_result_filtered_layout_summary_text_two">Your interests will go to their \' filtered \' folder, so response to your interests may be delayed.</string>
+    <string name="back">Back</string>
+    <string name="conversational_cal_next_question">Next: %s</string>
+    <string name="conversational_cal_previous_question">Previous: %s</string>
+    <string name="do_you_want_to_save">Do you want to save the changes?</string>
+    <string name="select">Select</string>
+    <string name="recommendation_first_name_and_more">%1$s + %2$s more</string>
+    <string name="close">Close</string>
+    <string name="num_people_shown_interest_in_you">%1$s people have shown interest in you, please respond</string>
+    <string name="someone_shown_interest_in_you">Someone has shown interest in you, please respond</string>
+    <string name="other_filtered_interest">Other Interests</string>
+    <string name="select_education">Select Education</string>
+    <string name="more_options">MORE OPTIONS</string>
+    <string name="notitification_settings_warning_message">If you unsubscribe from \'Important-Updates\' you may miss some critical updates regarding your acccount.Do you want to continue?</string>
+    <string name="modify_your_desired_partner_profile">Modify your Desired Partner Profile</string>
+    <string name="based_on_the_interest_update_partner_preferences">Based on the interest you have just sent, would you like to add the following values in your partner preferences</string>
+    <string name="edit_dpp_for_better_results">Edit your Desired Partner Profile for better results.</string>
+    <string name="more_members_who_have_shown_interest_in_you">More members who have shown interest in you</string>
+    <string name="relax_dpp">Edit Partner Preference</string>
+    <string name="relax_dpp_message">Only %s found today! Relax your Desired Partner Criteria now</string>
+    <string name="relax_dpp_message_no_matches">No matches found today! Relax your Desired Partner Criteria now</string>
+    <string name="allow">Allow</string>
+    <string name="num_new_daily_recommendations">%s New Daily Recommendations</string>
+    <string name="recommendations_rating_title">Rate your Recommendations</string>
+    <string name="recommendations_rating_text">Tell us about the quality of recommendations and help us improve the profiles we recommend you.</string>
+    <string name="oneStar">Very Poor</string>
+    <string name="twoStar">Poor</string>
+    <string name="threeStar">Satisfactory</string>
+    <string name="fourStar">Good</string>
+    <string name="fiveStar">Great</string>
+    <string name="needs_to_improve">Needs to Improve!</string>
+    <string name="could_be_better">Could be better</string>
+    <string name="awesome">Awesome!</string>
+    <string name="help_us_improve_your_recommendations">Help us improve your recommendations</string>
+    <string name="help_us_improve_your_recommendations_subheading">Note: We relax your matches based on your past trends of acceptances and
+    interests sent. Click next to edit your preferences</string>
+    <string name="edit">Edit</string>
+    <string name="match_count">Match Count : </string>
+    <string name="rating_recommendation_dialog_text">Your rating has been saved but you have not saved any changes to help us improve your recommendations</string>
+    <string name="guna_score_from_36">%s/36</string>
+    <string name="tap_reg_help">Take help to write this</string>
+    <string name="passport_help">The Passport file no. is a minimum 12 digit code located on the address page or the last page, at the bottom section of your passport</string>
+    <string name="tap_reg_help_in">सहायता लें</string>
+    <string name="write_in_english">Write in English</string>
+    <string name="write_in_hindi">हिंदी में लिखें</string>
+
+    <string name="main_activity_title">This title is in English</string>
+    <string name="main_activity_desc">This is the description text in English.</string>
+    <string name="main_activity_about">This is about text in English.</string>
+    <string name="main_activity_to_tr_button">Turkish</string>
+    <string name="main_activity_to_en_button">English</string>
+    <string name="main_activity_toolbar_title">Title in English</string>
+    <string name="report_abuse_no_attachmentadded">You have not attached any screenshots in support. Would you like to upload them before proceeding?</string>
+    <string name="aadhaar_redirection_message">You will be redirected to vendor site for verification</string>
+    <string name="verification_failed">Verification Failed</string>
+    <string name="verification_failed_message">The Aadhaar number you entered was invalid. Kindly ensure you enter the 12 digits aadhaar number without any spaces</string>
+    <string name="verification_successful">Verification Successful</string>
+    <string name="verification_successful_message">Thank you for verifying your Aadhaar number. A verification shield will now be shown against your profile in all the listings describing that your \'Aadhaar number is verified\'</string>
+    <string name="current_match_count">Current match count:</string>
+    <string name="new_match_count_with_below_selection">New match count with below selection:</string>
+    <string name="we_have_takennote_of_matching">We have taken note of your concern and we will try to improve your matching </string>
+    <string name="your_rating_saved">Your rating has been saved</string>
+    <string name="please_select_rating">Please select a rating</string>
+    <string name="abc">By selecting these strict criteria, your matching pool will change from %1$s to %2$s</string>
+    <string name="abc1">By selecting these strict criteria, your matching pool will change</string>
+    <string name="def">By selecting these criteria, your matching profiles will change from %1$s to %2$s.\n\nRelax your other criteria for more matches.</string>
+    <string name="not_made_changes">You have not made any changes. Do you want to continue?</string>
+    <string name="confirm">Confirm</string>
+    <string name="save_and_skip">Save and skip</string>
+    <string name="save_and_relax">Save and relax</string>
+    <string name="dpp_range_chip_from_to">%1$s - %2$s</string>
+    <string name="verification_pending">Verification In Process.. </string>
+    <string name="verification_pending_message">We’ll soon update your profile with a verified badge depicting that you’re a verified member</string>
+    <string name="scan_view_title">%s Verification</string>
+    <string name="scan_view_description">Your ID details are 100% secure &amp; will not be stored or visible on Jeevansathi</string>
+    <string name="scan_view_onfido_intro">We use Onfido, a third party to process the identity check in a secure manner</string>
+    <string name="invalid_doc_header">Invalid Document</string>
+    <string name="invalid_doc_text">Your document details were not clear. Please try again and take a clear picture of the document</string>
+    <string name="invalid_selfie_header">Invalid Selfie</string>
+    <string name="invalid_selfie_text">Your selfie was not clear. Please try again and take a clear selfie of yourself</string>
+    <string name="invalid_doc_selfie_header">We could not verify your documents</string>
+    <string name="invalid_doc_selfie_text">Your details were not clear. Please try again and take a clear picture of the document and selfie</string>
+    <string name="invalid_name_text">The name fetched from the official ID do not match with that provided in previous screen. Kindly provide the exact Name as mentioned on official Id.</string>
+    <string name="invalid_other_text">The details fetched from the official ID do not match with that of your profile. Kindly re-check the govt. id number &amp; try again.</string>
+    <string name="invalid_name_header">Verification Failed</string>
+    <string name="nri_success_header">Verification Successful</string>
+    <string name="nri_success_text">Thank you for verifying your details. A verification shield will now be shown against your profile depicting that your Govt. ID has been verified against your name.It may take up to 2 minutes for the shield to be added on your profile.</string>
+    <string name="view_more_options">View %d more options</string>
+    <string name="checkbox_unchecked_msg">Please check the above box to proceed</string>
+
+    <!--<string name="here_are_some_suggestions_to_increase_matches_and_responses">To increase matches and responses, here are a few suggested options to add to your partner preference. Tap to select options which you wish to add</string>-->
+    <string name="here_are_some_suggestions_to_increase_matches_and_responses">To increase mathches, here are suggested options to add to your partner preference</string>
+    <string name="no_changed_made_dpp">You have not made any changes, do you want to continue</string>
+    <string name="continueLabel">Continue</string>
+    <string name="your_updated_preference_saved">Your updated preference has been saved</string>
+    <string name="match_count_remain">Your match count will remain %s</string>
+    <string name="match_count_be">Your match count will be %s</string>
+    <string name="feedback_oncall">Feedback on Call</string>
+    <string name="write_in_detail_and_attach">Write in Detail and if possible attach screenshot</string>
+    <string name="report_your_bad_exp">Report your bad experience with profile id %s</string>
+    <string name="report_invalid_phone">Tell us about your experience when you made call to Profile ID - %s</string>
+    <string name="did_you_connect">Did you connect with %s ?  </string>
+    <string name="feedback_on_call">Feedback on Call</string>
+    <string name="were_you_able_to_connect">Did you connect on call with %s ?</string>
+    <string name="conversation_went_well_chat_mssg">Hi, as per our phone conversation we are keen on taking things forward. Kindly go through my profile (%1$s) and message or call us.</string>
+    <string name="could_not_connect_chat">Hi, we are interested in your profile. We tried contacting but could not reach you. Kindly go through my profile (%1$s) and message or call us.</string>
+    <string name="could_not_connect_chat_mssg">You were not able to connect with the user. Would you like to send %s a message?</string>
+    <string name="could_connect_chat_mssg">We are happy that you had fruitful conversation with the user, you can now drop a message to keep %s reminded</string>
+    <string name="select_subcaste">Select Subcaste</string>
+    <string name="enter_subcaste">Enter your Subcaste</string>
+
+    <string name="report_your_bad_exp_empty_err">Please select one reason to report</string>
+    <string name="register_without_writing_about_yourself">Register without writing about yourself ?</string>
+    <string name="your_profile_wont_go_live">Your profile will NOT go live until you write minimum 100 characters. Do you want to continue without completing it?</string>
+    <string name="write_about_me">WRITE \'ABOUT ME\'</string>
+    <string name="continue_anyway">Continue Anyway</string>
+    <string name="interest_with_messages">Only Interests with messages</string>
+    <string name="employed_in">Employed In</string>
+    <string name="hint_employed_in">Employed In *</string>
+    <string name="employed_in_occupation_empty">Please fill your occupation</string>
+    <string name="error_fill_the_required_field">Please fill the required fields</string>
+    <!-- Phone verification activity string -->
+    <string name="plus_sign">+</string>
+    <string name="label_phone_no">Phone no.</string>
+    <string name="text_verify_by_phone">You can also verify your number by giving missed call at</string>
+    <string name="missed_call_number">911143368207</string>
+    <string name="change_plan">Change Plan</string>
+    <string name="complete_your_transaction_amp_enjoy_benefits_of_paid_membership"><![CDATA[Complete your transaction & enjoy benefits of paid membership]]></string>
+    <string name="you_pay">You Pay</string>
+    <string name="duration_prefix">%s months</string>
+    <string name="you_save_postfix">You save : %1$s %2$s</string>
+    <string name="prices_prefix">%1$s %2$s</string>
+    <string name="match_score">Match Score</string>
+    <string name="view_plans">View Plans</string>
+    <string name="keep_scrolling_to_check_out_these_awesome_matches_suggested_previouly">Keep scrolling to view more matches suggested earlier</string>
+    <string name="new_recommendations_viewed">New recommendations viewed</string>
+    <string name="call_service_description">Jeevansathi ongoing call service</string>
+    <string name="call_channel_name">Call notifications</string>
+
+    <string name="error">Error</string>
+    <string name="jeevansathi_video_call">Jeevansathi Video Call</string>
+    <string name="remote_action_cam_mic_off">%s turned camera and microphone off</string>
+    <string name="remote_action_mic_off">%s muted this call</string>
+    <string name="remote_action_cam_off">%s turned camera off</string>
+    <string name="pog_requesting_to_switch_video_call">%s is requesting to switch to video call</string>
+
+    <string name="alt_email_verification_text">Email will be sent to your id, click on the link to verify your email id, Copy of emails will be sent on this id</string>
+    <string name="share_experience">Please share your experience with us.</string>
+    <string name="summary_nongenue">Could you tell us how would you summarize the experience as a whole. We really appreciate your help.</string>
+    <string name="attach_hint">Write in detail and if possible attach screenshot</string>
+    <string name="send">send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="warn_to_leave">Are you sure you want to leave?</string>
+    <string name="thankyou_feedback">Thank you for your feedback</string>
+    <string name="isAppRatingFlow">isAppRatingFlow</string>
+    <string name="apprating_experience">How likely is it that you would recommend Jeevansathi to a friend or colleague?</string>
+
+    <!-- Upload Service constant -->
+    <string name="text_photo">Photo %1$d</string>
+    <string name="text_video">Video %1$d</string>
+    <string name="text_start_uploading">Started Uploading…</string>
+    <string name="text_others">Others</string>
+    <string name="linked_amazon_wallet">You have successfully linked your amazon wallet</string>
+    <string name="call_status_calling">Calling</string>
+    <string name="call_status_incoming">Incoming</string>
+    <string name="call_status_ringing">Ringing</string>
+    <string name="call_connecting_status">Connecting</string>
+    <string name="on_hold">On Hold</string>
+    <string name="call_exit_alert">Your call will get disconnected. Do you want to end call?</string>
+    <string name="alert">Alert</string>
+    <string name="jscall_pog_busy_mssg">user busy on another call</string>
+    <string name="already_on_call_error">Can\'t place a new call while you\'re already in a call</string>
+    <string name="tap_to_return_to_call">Tap to return to call</string>
+    <string name="missed_video_call">Missed video call</string>
+    <string name="missed_video_calls">Missed video calls</string>
+    <string name="missed_voice_call">Missed voice call</string>
+    <string name="missed_voice_calls">Missed voice calls</string>
+    <string name="enable_auto_start">Kindly enable your settings to receive instant notifications from Jeevansathi</string>
+    <string name="enable_auto_start_ok">Enable</string>
+    <string name="auto_start_later">Cancel</string>
+    <string name="feedback_call_yes_title">Give us your feedback</string>
+    <string name="feedback_call_no_title">What went wrong, give us your Feedback</string>
+    <string name="photo_under_screening_mssg">Photos under screening upto 24hrs</string>
+    <string name="under_screening">Under Screening </string>
+    <string name="under_screening_about_me">Under screening upto 24hrs</string>
+    <string name="conversational_starters_with_this_profile">You &amp; %s</string>
+    <string name="send_personalized_msg">Send a personalized message</string>
+    <string name="clear_all">CLEAR ALL</string>
+    <string name="clear">CLEAR</string>
+    <string name="it_s_an_accept">It’s an Accept!</string>
+    <string name="upgrade">UPGRADE</string>
+    <string name="enter_pg_name">%1$s Name as per %2$s</string>
+    <string name="enter_pg_doc_number">Enter %1$s %2$s Number</string>
+    <string name="enter_pg_pass_number">Enter File Number on Passport</string>
+
+    <string name="pv_screen1_heading">Become a Verified Member</string>
+    <string name="pv_screen1_sub_heading">We are moving towards a more secure platform by verifying our users’ basic details</string>
+    <string name="pv_screen1_privacy_msg">100% secure. Your ID details will not be stored or visible on Jeevansathi.</string>
+    <string name="pv_screen1_verify_option">Securely verify using</string>
+    <string name="pv_screen1_benefits_text">EXCLUSIVE BENEFITS</string>
+    <string name="pv_screen1_benefits">Get featured in the list of ‘Verified Matches’.\n10 additional contact views if or when you become a paid member (except Basic membership).</string>
+    <string name="pv_screen2_privacy_msg">Your details are 100% secure. Your ID details will not be stored or visible on Jeevansathi.</string>
+    <string name="pv_consent_msg">I hereby allow Info Edge (India) Ltd. to provide above details to Aadrila Technologies Pvt. Ltd. to verify ID document from the Issuing Authority.</string>
+    <string name="pv_successful_msg">Thank you for verifying your details. A verification shield will now be shown against your profile depicting that your Govt. ID has been verified against your name.\n\nt may take up to 2 minutes for the shield to be added on your profile.</string>
+    <string name="pv_failure_msg">The details fetched from government database do not match with your profile name. Kindly re-check the number &amp; try again.</string>
+    <string name="pv_name_update_msg">Please update your profile name to exactly match the name on ID.</string>
+
+
+    <string name="behavior_eoi_mssg_sing">Hi! You recently sent interest to %s member. Please give us 5 stars on play store if you are having a great experience on Jeevansathi</string>
+    <string name="behavior_eoi_mssg_plu">Hi! You recently sent interests to %s members. Please give us 5 stars on play store if you are having a great experience on Jeevansathi</string>
+    <string name="offer">Offer</string>
+    <string name="message_sent">Message sent successfully</string>
+
+    <!-- Video profile string -->
+    <string name="text_play_sample_video">PLAY SAMPLE VIDEO</string>
+    <string name="upload_video_profile">Upload Video Profile</string>
+    <string name="upload_video">Upload Video</string>
+    <string name="upload_pre_recorded_video_profile">Upload Pre Recorded Video Profile</string>
+    <string name="video_max_size">Video max size: 20MB</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="no_video">No Videos</string>
+    <string name="no_photo">Photo not available</string>
+    <string name="hangout_no_acceptance_mssg">None of your accepted members participating in the event are currently online</string>
+    <string name="app_downloaded_an_update">Jeevansathi has downloaded an update</string>
+    <string name="install">Install</string>
+    <string name="verify_contact">Verify</string>
+    <string name="contact_verification">To view contact details, please enter the OTP we just sent to your registered mobile number.</string>
+    <!-- Free Text Search String -->
+    <string name="fts_text_search">KEYWORD SEARCH</string>
+    <string name="fts_keyword_search">Keyword Search</string>
+    <string name="hint_text_search">Try our new search \nby typing what \nyou\'re looking for</string>
+    <string name="default_search_hint">YOU CAN TRY SEARCHING FOR</string>
+    <string name="txt_resent_Search">RESENT SEARCHS</string>
+    <string name="btn_use_search_form">use search form</string>
+    <string name="search_query_params">Your search \'%1$s\' did not match any profiles</string>
+    <string name="try_searching_with_again">Try searching again with</string>
+    <string name="first_no_match_error">All words spelled correctly\nDifferent keywords\nMore general keywords</string>
+    <string name="second_no_match_error">Sorry, we have no profile matching \n\'%1$s\'\n\nTo search again</string>
+    <string name="txt_showing_results_for">Showing results for : </string>
+    <string name="messenger">Messenger</string>
+    <string name="accepted_members_title">Accepted Members</string>
+    <string name="interest_sent_title">Interest Sent</string>
+    <string name="interest_received_title">Interest Received</string>
+    <string name="shortlisted_title">Shortlisted</string>
+    <string name="matches_title">Matches</string>
+    <string name="new_messages">New Messages</string>
+    <string name="loading_please_wait">Loading, Please wait…</string>
+    <string name="jeevansathi_voice_call">Jeevansathi Voice Call</string>
+    <string name="in_call">In Call</string>
+    <string name="requesting_to_switch_to_video_call">Requesting to switch to video call</string>
+    <string name="privacy_setting_label"><![CDATA[Set up time to receive Voice & Video calls]]></string>
+    <string name="call_decline_title">Update Suitable time</string>
+    <string name="call_decline_content">You declined multiple calls during your preferred time to receive calls. Please update if you want to receive calls at another time.</string>
+
+    <string name="suitable_time_to_receive_calls_ist">Suitable time to receive call(Specify time in IST)</string>
+
+    <string name="request_declined">Request declined</string>
+    <string name="dummy_listing_name">Category Name</string>
+    <string name="error_message">Error message!</string>
+    <string name="select_topics">Select up to %d topics you want to talk about</string>
+    <string name="pip_mode_dismissed">Picture-In-Picture mode dismissed</string>
+    <string name="calling">Calling…</string>
+    <string name="incoming_audio_call">Incoming voice call</string>
+    <string name="incoming_video_call">Incoming video call</string>
+    <string name="ongoing_audio_call">Ongoing voice call</string>
+    <string name="ongoing_video_call">Ongoing video call</string>
+    <string name="jeevansathi_call">Jeevansathi call</string>
+    <string name="call_logs_empty">Click here to set your preferred time to receive calls \n\nJeevansathi Voice and Video Calls initiated and received with their details will appear here</string>
+    <string name="call_logs_empty_clickable">Click here to set your preferred time to receive calls</string>
+    <string name="sample_video">SAMPLE VIDEO</string>
+    <string name="select_topics_title">Select Topics</string>
+    <string name="change_topics_title">Select Topic</string>
+    <string name="upload_photos">Upload Photos</string>
+    <string name="upload">Upload</string>
+    <string name="new_string"> new</string>
+    <string name="what_is_video_profile"><u>What is Video Profile?</u></string>
+    <string name="max_duration">Each clip should be of max 60 Sec</string>
+    <string name="recorded_video_profile_with_the_help_of_jeevansathi">Recorded Video Profile with the help of Jeevansathi</string>
+    <string name="tips_help_for_recording"><![CDATA[!upload_video_profile[CDATA[Tips & Help for recording video]]]><![CDATA[]>]]></string>
+    <!-- Video profile string -->
+    <string name="add_photos_and_add_video"><![CDATA[Add Photos & Video Profile %1$s]]></string>
+    <string name="space" />
+    <string name="record">Record</string>
+    <string name="add_topic">Add Topic</string>
+    <string name="record_upload_video">Record/Upload Video</string>
+    <string name="record_video">RECORD VIDEO</string>
+    <string name="select_video">SELECT VIDEO</string>
+    <string name="add_more_videos">ADD MORE VIDEOS</string>
+    <string name="change_topic">Change Topic</string>
+    <string name="permission_request">Permission</string>
+    <string name="save_video_confirmation">Do you want to save ?</string>
+    <string name="it_will_take_a_while_to_compile">It will take a while to compile video for you, meanwhile continue browsing</string>
+    <string name="vp_draft_text">This action will not save your video clips.Do you want to discard your video?</string>
+    <string name="vp_delete_draft_tuple">You want to delete this topic?</string>
+    <string name="vp_discard">DISCARD</string>
+    <string name="vp_save_draft">SAVE DRAFT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="video_screening">Your video will be screened within 24 hours of uploading.</string>
+    <string name="photo_under_screen">Photo will be screened &amp; made live within 24 hours from uploading</string>
+    <string name="photo_under_screen_my_album">Photos will be screened &amp; made live within 24 hours from uploading</string>
+    <string name="album_under_screen">Photos/Videos  will be screened &amp; made live within 24 hours from uploading</string>
+    <string name="video_under_screen_msg">Videos will be screened &amp; made live within 24 hours from uploading </string>
+
+    <string name="processing">Your video is being processed, please come back in sometime.</string>
+    <string name="vp_title1">What is Video Profile?</string>
+    <string name="vp_desc1">Simply talk about yourself, your family, preferences, passions, and everything that brings out the best in you through a self-shot video.</string>
+    <string name="vp_title2">   How will it improve my profile?</string>
+    <string name="vp_desc2">Video Profile adds credibility  &amp; authenticity to your profile. It increases your chances of getting more responses from other users, gives higher visibility and brings out the best in your profile. </string>
+    <string name="vp_title3">How do I shoot a great video?  </string>
+    <string name="vp_desc3">Make sure that the place you shoot your video in is well lit and audio is clear without any disturbances. Ask someone to hold the camera, ensure that the video is horizontal while shooting with a mobile phone. Do dress well, be comfortable, include family/ friends and feel free to speak in your mother tongue. But more than anything else, be yourself!
+</string>
+
+
+    <string name="unable_to_download">Photo unable to download</string>
+    <string name="topic">Topic :</string>
+    <string name="rerecord">Rerecord</string>
+    <string name="video_profile_upload_with_any_empty_video"> Do you want to proceed without uploading videos for topics already selected?</string>
+    <string name="no_photos">No Photos</string>
+    <string name="rerecord_discard_mssg">Your video will be discarded and not be saved. Do you want to continue?</string>
+    <string name="upload_video_cal"><u>Upload your Matrimonial Video Profile</u></string>
+    <string name="video_cal_summary">video call summary
+</string>
+    <string name="photo_privacy_title">Photo Privacy</string>
+    <string name="show_more">SHOW MORE</string>
+    <string name="your_turn_reply">Your Turn - Reply</string>
+    <string name="btn_join_now">JOIN NOW</string>
+    <string name="video_profile">Video Profile</string>
+    <string name="see_what_our_users_are_uploading">See what other users are uploading</string>
+    <string name="what_you_can_talk_in_your_video">What you can talk in your video</string>
+    <string name="add_your_video">ADD YOUR VIDEO</string>
+    <string name="following_videos_will_automatically_deleted">Following videos will be automatically deleted</string>
+    <string name="explicit_obscene_videos">Explicit/obscene videos</string>
+    <string name="videos_that_disclose_contact_information">Videos that disclose contact information</string>
+    <string name="we_have_more_profiles_who_have_filtered_you_out">We have more profiles who have filtered you out.</string>
+    <string name="your_interest_will_go_in_their_filtered_folder_so_the_response_to_your_interest_may_be_delayed">Your interest will go in their filtered folder so the response to your interest may be delayed</string>
+    <string name="receive_verification_call">If OTP is not delivered, you may receive a verification call from</string>
+    <string name="let_us_know_how_was_your_call">Let us know how was your call</string>
+    <string name="let_us_know_what_went_wrong">Let us know what went wrong.</string>
+    <string name="attach_screen_shot">Attach Screen Shot</string>
+    <string name="detail_sms">Get details as SMS</string>
+
+    <string name="local_hangup_mssg">Hi, we are interested in your profile. We tried contacting but could not reach you. Kindly go through my profile and message/call us.</string>
+    <string name="txt_smart_entries_header">Selected items will appear here</string>
+    <string name="call_toll_free">Call Toll Free</string>
+    <string name="write_to_us">Write to us</string>
+    <string name="help_email">help@jeevansathi.com</string>
+    <string name="email_activity_resolution_fail">No email application installed on the device.</string>
+    <string name="photo_abuse_message"> %1$s has reported photo by %2$s and the following is the concern expressed:%3$s(%4$s)</string>
+    <string name="report">REPORT</string>
+    <string name="select_reason">select reason</string>
+    <string name="send_interest_coach_subtitle">Let the members know you liked their profile.</string>
+    <string name="shortlist_profile_coach_subtitle">Shortlist the profiles to save and view later.</string>
+    <string name="ignore_profile_coach_subtitle">Let us know which profiles are not relevant to you. We will not show them to you again.</string>
+    <string name="chat_coach_subtitle">It is always a good idea to initiate conversation over chat.</string>
+    <string name="shortlist_profiles">Shortlist Profiles</string>
+    <string name="ignore_profiles">Ignore Profiles</string>
+    <string name="chat">Chat</string>
+    <string name="reminder">Reminder</string>
+    <string name="cancel_eoi_coach_subtitle">Not sure about the profile, cancel your interest.</string>
+    <string name="reminder_coach_subtitle">Remind the member about your interest.</string>
+    <string name="contact_coach_subtitile">It is always good to initiate conversation over call.</string>
+    <string name="send_interest_small">Send Interest</string>
+    <string name="need_some_help_in_writing">Need some help in writing?</string>
+    <string name="or_we_can_help_you">Or we can help you</string>
+    <string name="let_s_start">LET’S START</string>
+    <string name="we_re_here_to_help">We’re here to help you write a well-describing ‘About Me’ section which showcases your personality in the best possible manner. Help us by answering some questions.</string>
+    <string name="here_s_what_we_have_written_for_you">Here’s what we have written for you</string>
+    <string name="you_can_edit_this_once_you_ve_made_all_your_selections">You will be able to edit this text in the last screen</string>
+    <string name="save_amp_finish"><![CDATA[SAVE & FINISH]]></string>
+    <string name="content_will_be_screened_before_the_profile_is_made_live">Content will be screened before the profile is made live</string>
+    <string name="edit_in_your_words">EDIT IN YOUR WORDS</string>
+    <string name="hightlight_color">#FAF5DF</string>
+    <string name="hightlight_transparent">#00000000</string>
+    <string name="save_about_me_template">You have some unsaved changes. Are you sure you want to leave this page?</string>
+    <string name="question_count">%d/%d</string>
+    <string name="express_yourself_better_talk_about_who_you_are">Express yourself better! Talk about who you are</string>
+    <string name="add_video_profile">Add Video Profile</string>
+    <string name="video_profile_matches">Video Profile Matches</string>
+    <!-- strings.xml -->
+    <string name="express_to_">Express to impress! \nRecord a video about yourself, career &amp; family</string>
+    <string name="record_an_impressive_video_that_talks_about_you_your_career_family"><![CDATA[Record an impressive video that talks about you, your career & family]]></string>
+    <string name="express_yourself_better">Express yourself better!</string>
+    <string name="not_verified">Your profile is not verified...</string>
+    <string name="get_verified">GET VERIFIED</string>
+    <string name="messenger_permission_card_subtitle_setting">Ensure you are able to connect with matches by allowing %1$s permissions to make voice &amp; video calls.</string>
+    <string name="messenger_permission_card_title">Profiles are trying to call you!</string>
+    <string name="change_permissions">Change Permissions</string>
+    <string name="call_permission_bottom_sheet_title">Don\'t miss the opportunity to call!</string>
+    <string name="call_permission_bottom_sheet_subtitle"><![CDATA[Give the required permissions to connect through voice & video calls.]]></string>
+    <string name="messenger_permission_card_subtitle_popup"><![CDATA[Ensure you are able to connect with matches by allowing voice & video calls through Jeevansathi.]]></string>
+    <string name="failed_to_register">Sorry Failed to Register</string>
+    <string name="availed">availed</string>
+    <string name="ignored">ignored</string>
+    <string name="that_s_a_smart_decision">That\'s a smart decision!</string>
+    <string name="pass_success_text"><![CDATA[You’ve just unlocked paid benefits for free. You can now chat, make voice & video calls with members from your community for the event. \n\nWishing you luck!]]></string>
+    <string name="start_browsing">Start Browsing</string>
+    <string name="you_just_got_lucky">You just got lucky!</string>
+    <string name="hangout_pass__text"><![CDATA[We are glad to inform you that you are one of the first 1000 members to join Match Hour. Claim your pass to avail paid benefits absolutely free.]]></string>
+    <string name="unlock_free_benefits">Unlock Free Benefits!</string>
+    <string name="i_ll_do_this_later">I’ll do this later</string>
+    <string name="scratch_card_to_check_benefits">Scratch card to check benefits!</string>
+    <string name="got_some_queries_to_ask">Got some queries to ask?</string>
+    <string name="get_help_from_our">Get help from our</string>
+    <string name="frequently_asked_questions">frequently asked questions!</string>
+    <string name="hangout_extend_title">You’ve got an hour extra!</string>
+    <string name="hangout_extend_content">We love when you make our events successful. To ensure that you continue talking to matches you like, we are extending this event for another hour.\n\nWishing you luck!</string>
+    <string name="continue_browsing">Continue Browsing</string>
+    <string name="zero_time">00 : 00 : 00</string>
+    <string name="no_live_event">No live event exist</string>
+    <string name="yrs">Yrs</string>
+    <string name="build_type">Build Type</string>
+    <string name="config">Config</string>
+    <plurals name="select_upto_d_tags">
+        <item quantity="one">select %d tag only</item>
+        <item quantity="other">Select up to %d tags</item>
+    </plurals>
+
+    <string-array name="build_types">
+        <item>Dev</item>
+        <item>TestJs_21</item>
+        <item>TestJs_11</item>
+        <item>TestJs_13</item>
+        <item>TestJs_14</item>
+        <item>TestJs_15</item>
+        <item>TestJs_16</item>
+        <item>TestJs_17</item>
+        <item>TestJs_18</item>
+        <item>ReleaseDebug</item>
+        <item>ReleaseSigned</item>
+    </string-array>
+
+    <string-array name="build_type_enteries">
+        <item>dev</item>
+        <item>testjs_21</item>
+        <item>testjs_11</item>
+        <item>testjs_13</item>
+        <item>testjs_14</item>
+        <item>testjs_15</item>
+        <item>testjs_16</item>
+        <item>testjs_17</item>
+        <item>testjs_18</item>
+        <item>release_debug</item>
+        <item>release_signed</item>
+    </string-array>
+
+    <!--    <string-array name="build_types">-->
+    <!--        <item>Release</item>-->
+    <!--        <item>Dev</item>-->
+    <!--        <item>QA</item>-->
+    <!--    </string-array>-->
+
+    <!--    <string-array name="build_type_enteries">-->
+    <!--        <item>release</item>-->
+    <!--        <item>dev</item>-->
+    <!--        <item>qa</item>-->
+    <!--    </string-array>-->
+
+    <string name="uploading_in_progress">Uploading in progress</string>
+    <string name="video_approve">Videos Approved</string>
+    <string name="video_rejected">Videos Rejected</string>
+    <string name="no_video_add_video_title">No videos to show currently!</string>
+    <string name="new_to_jeevansathi">New to Jeevansathi?</string>
+    <string name="register_now">Register Now!</string>
+    <string name="register_login">Register / Login</string>
+    <string name="explore_the_app">Explore app</string>
+    <string name="membership_cta_text">View Membership Plans</string>
+    <string name="prompt_please_select_residency_status">Please select residential status</string>
+    <string name="select_residential">Select Residential Status</string>
+    <string name="enter_residential">Enter your residential status</string>
+    <string name="register_for_free">register for free</string>
+    <string name="unable_to_load_pd">Unable to load profile.</string>
+    <string name="chat_empty_title"><![CDATA[You’ve unlocked free voice & video calls!]]></string>
+    <string name="chat_empty_content"><![CDATA[Now talk to profiles you like using our free calling services & make the most of your subcribed membership]]></string>
+    <string name="nudge_widget_title">Tap here to make a secure voice call!</string>
+    <string name="nudge_widget_subtitle">Now connect with matches without revealing your contact details</string>
+    <string name="bride_text_view">Bride text view</string>
+    <string name="groom_text_view">Groom text view</string>
+    <string name="marital_status_view">Marital Status View</string>
+    <string name="have_children_view">Have Children View</string>
+    <string name="religion_view">Religion View</string>
+    <string name="caste_view">Caste View</string>
+    <string name="muslim_caste_view">Muslim Caste View</string>
+    <string name="mother_tongue_view">Mother Tongue View</string>
+    <string name="country_view">Country View</string>
+    <string name="city_view">City View</string>
+    <string name="manglik_view">Manglik View</string>
+    <string name="diet_view">Diet View</string>
+    <string name="education_view">Education View</string>
+    <string name="occupation_view">Occupation View</string>
+    <string name="lower_age_limit_view">Lower age limit view</string>
+    <string name="upper_age_limit_view">Upper age limit view</string>
+    <string name="lower_height_limit_view">Lower height limit view</string>
+    <string name="upper_height_limit_view">Upper height limit view</string>
+    <string name="lower_income_limit_view">Lower income limit view</string>
+    <string name="upper_income_limit_view">Upper income limit view</string>
+    <string name="get_paid_membership">GET PAID MEMBERSHIP</string>
+    <string name="time_and_place_of_birth_text">Interested in knowing time &amp; place of birth of</string>
+
+    <string name="also_get_10_additional_contact_views_when_you_become_a_paid_member_except_basic_membership">Also get 10 additional contact views when you become a paid member (except Basic membership)</string>
+    <string name="become_a_verified_member">BECOME A VERIFIED MEMBER</string>
+    <string name="verify_your_profile_to_get_access_to_this_locked_filter">Verify your profile to get access to this locked filter</string>
+    <string name="passport_sub_text">File no. is present on the last page of passport (minimum 12 digits)</string>
+    <string name="type_the_characters">Type the characters</string>
+    <string name="enter_captcha">Enter Captcha</string>
+    <string name="my_personality">My Personality</string>
+    <string name="describe_yourself">Describe yourself in 5 words</string>
+    <string name="describe_yourself_in_5_words">Describe yourself in 5 words</string>
+    <string name="toll_free_support_time">9 AM to 9 PM</string>
+    <string name="select_issuing_country">Select issuing country:</string>
+    <string name="step_1">Step 1</string>
+    <string name="step_2">Step 2</string>
+    <string name="scan_your_document">Scan your document</string>
+    <string name="selfie_your_document">Take a Selfie</string>
+    <string name="i_have_read_onfido">I have read, understand and accept Onfido’s <u>Facial Scan Policy and Release</u>, <u>Privacy Policy</u> and <u>Terms of Service</u>.</string>
+    <string name="i_have_read_onfido_terms">Terms of Service.</string>
+    <string name="onfido_privacy">Privacy Policy</string>
+    <string name="onfido_facial_scan_policy">Facial Scan Policy and Release</string>
+
+    //Onfido static msg changes
+    <string name="onfido_doc_confirmation_body_generic">&#160;</string>
+    <string name="onfido_selfie_confirmation_body">&#160;</string>
+    <string name="chatbot">Chatbot</string>
+    <string name="least_likely">Least likely</string>
+    <string name="most_likely">Most likely</string>
+    <string name="contact_privacy_setting">Contact Privacy Settings</string>
+    <string name="hide_from_all">Hide from all</string>
+    <string name="show_to_accepted">Show to Interest Sent/Accepted members</string>
+    <string name="show_to_accepted_recommended">Show to Interest Sent/Accepted members (Recommended)</string>
+    <string name="privacy_setting_for">Privacy settings for %s</string>
+    <string name="check_prompt_msg">This badge indicates the user has been verified against govt. IDs &amp; is authentic</string>
+
+
+    <string name="today_s_horoscope">Today’s horoscope</string>
+    <string name="number_picker_formatter">%02d</string>
+    <string name="create_janampatri">Create Janampatri</string>
+    <string name="update_janampatri">Update Janampatri</string>
+    <string name="time_of_birth_hh_mm">Time of Birth (HH:MM)</string>
+    <string name="place_of_birth">Place of Birth</string>
+    <string name="pay_in_indian_currency">Pay in Indian currency</string>
+    <string name="read_more">…read&#160;more</string>
+    <string name="current_minutes_balance">Current minutes balance:</string>
+    <string name="receiving_call">"Receiving call in 00:"</string>
+    <string name="infinity">∞</string>
+    <string name="disclaimer_kundali">Changing these details will invalidate Premium Janampatri<br/>&amp; reports (if any).</string>
+    <string name="todays_horoscope">Today’s Horoscope</string>
+</resources>

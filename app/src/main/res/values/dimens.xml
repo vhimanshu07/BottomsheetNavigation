@@ -1,0 +1,102 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="space4">4dp</dimen>
+    <dimen name="space2">2dp</dimen>
+    <dimen name="space3">3dp</dimen>
+    <dimen name="space8">8dp</dimen>
+    <dimen name="space6">6dp</dimen>
+    <dimen name="space5">5dp</dimen>
+    <dimen name="space10">10dp</dimen>
+    <dimen name="space11">11dp</dimen>
+    <dimen name="space12">12dp</dimen>
+    <dimen name="space15">15dp</dimen>
+    <dimen name="space16">16dp</dimen>
+    <dimen name="space18">18dp</dimen>
+    <dimen name="space20">20dp</dimen>
+    <dimen name="space24">24dp</dimen>
+    <dimen name="space25">25dp</dimen>
+    <dimen name="space30">30dp</dimen>
+    <dimen name="space32">32dp</dimen>
+    <dimen name="space35">35dp</dimen>
+    <dimen name="space40">40dp</dimen>
+    <dimen name="space50">50dp</dimen>
+    <dimen name="space56">56dp</dimen>
+    <dimen name="space64">64dp</dimen>
+    <dimen name="space60">60dp</dimen>
+    <dimen name="space2px">2px</dimen>
+    <dimen name="text_19_dp">18dp</dimen>
+    <dimen name="iit_default_text_size">16dp</dimen>
+    <dimen name="default18">18dp</dimen>
+    <dimen name="md_bg_corner_radius">2dp</dimen>
+    <dimen name="md_listitem_vertical_margin">12dp</dimen>
+    <dimen name="md_listitem_vertical_margin_choice">8dp</dimen>
+
+    <!-- padding -->
+    <dimen name="padding_small">8sp</dimen>
+    <dimen name="padding_x_medium">10dp</dimen>
+
+    <dimen name="check_width">50dp</dimen>
+    <dimen name="check_view_line_margin">10dp</dimen>
+    <dimen name="dimen_50dp">50dp</dimen>
+
+    <!-- margin config -->
+    <dimen name="margin_normal">16dp</dimen>
+    <dimen name="margin_medium">20dp</dimen>
+
+    <!-- size in dp-->
+    <dimen name="dimen_102dp">102dp</dimen>
+    <dimen name="dimen_13dp">13dp</dimen>
+    <dimen name="dimen_25dp">25dp</dimen>
+
+    <!-- size in sp-->
+    <dimen name="dimen_8sp">8sp</dimen>
+    <dimen name="dimen_9sp">9sp</dimen>
+    <dimen name="dimen_10sp">10sp</dimen>
+    <dimen name="dimen_11sp">11sp</dimen>
+    <dimen name="dimen_12sp">12sp</dimen>
+    <dimen name="dimen_14sp">14sp</dimen>
+    <dimen name="dimen_15sp">15sp</dimen>
+    <dimen name="dimen_16sp">16sp</dimen>
+    <dimen name="dimen_17sp">17sp</dimen>
+    <dimen name="dimen_18sp">18sp</dimen>
+    <dimen name="dimen_20sp">20sp</dimen>
+    <dimen name="dimen_26sp">26sp</dimen>
+    <dimen name="dimen_30dp">30dp</dimen>
+    <dimen name="sp_8">8sp</dimen>
+    <dimen name="sp_10">10sp</dimen>
+    <dimen name="sp_12">12sp</dimen>
+    <dimen name="sp_14">14sp</dimen>
+    <dimen name="sp_16">16sp</dimen>
+    <dimen name="sp_20">20sp</dimen>
+    <dimen name="dimen_1sp">1sp</dimen>
+    <dimen name="dimen_3sp">3sp</dimen>
+    <dimen name="dimen_24sp">24sp</dimen>
+    <dimen name="diem_70dp">70dp</dimen>
+    <dimen name="dimen_4sp">4sp</dimen>
+    <dimen name="dimen_60dp">60dp</dimen>
+    <dimen name="dimen_5sp">5sp</dimen>
+    <dimen name="dimen_28dp">28dp</dimen>
+    <dimen name="dimen_200dp">200dp</dimen>
+    <dimen name="dimen_150dp">150dp</dimen>
+    <dimen name="dimen_28sp">28sp</dimen>
+    <dimen name="dimen_45dp">45dp</dimen>
+    <dimen name="dimen_95dp">95dp</dimen>
+    <dimen name="dimen_34dp">34dp</dimen>
+    <dimen name="dimen_13sp">13sp</dimen>
+    <dimen name="dimen_11dp">11dp</dimen>
+    <dimen name="dimen_100dp">100dp</dimen>
+    <dimen name="dimen_7dp">7dp</dimen>
+    <dimen name="dimen_250dp">250dp</dimen>
+    <dimen name="dimen_22dp">22dp</dimen>
+    <dimen name="dimen_32sp">32sp</dimen>
+    <dimen name="dimen_52dp">52dp</dimen>
+    <dimen name="dimen_55dp">55dp</dimen>
+    <dimen name="dimen_17dp">17dp</dimen>
+    <dimen name="dimen_54dp">54dp</dimen>
+    <dimen name="dimen_330dp">330dp</dimen>
+    <dimen name="dimen_300dp">300dp</dimen>
+    <dimen name="dimen_35dp">35dp</dimen>
+</resources>

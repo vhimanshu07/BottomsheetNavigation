@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/registration_form_submit_button_selector"
+    android:insetBottom="@dimen/button_inset_vertical"
+    android:insetLeft="@dimen/button_inset_horizontal"
+    android:insetRight="@dimen/button_inset_horizontal"
+    android:insetTop="@dimen/button_inset_vertical" />

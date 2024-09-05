@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dialog_bg">#55000000</color>
+    <color name="coachMarkBg">#c2000000</color>
+    <color name="cal_title_color">#D4D4D4</color>
+    <color name="cal_subtitle_color">#C6C6C6</color>
+    <color name="photo_privacy_choose_option_color">#A0A0A0</color>
+    <color name="trans_15_white">#26FFFFFF</color>
+    <color name="md_btn_selected">#33969696</color>
+    <color name="md_btn_selected_dark">#40CBCBCB</color>
+    <color name="spinner_select_text_color">#202020</color>
+
+    <color name="transparent_help">#e6ffffff</color>
+    <color name="md_divider_black">#10000000</color>
+    <color name="md_divider_white">#10FFFFFF</color>
+
+    <color name="md_material_blue_600">#2196F3</color>
+    <color name="primary">#34495E</color>
+    <color name="primaryDark">#3c5064</color>
+    <color name="accent">#DD2C00</color>
+
+    <color name="material_red_500">#df2951</color>
+    <color name="notification_background">#F2000000</color>
+
+    <color name="cal_title_active_field">#FFFFFF</color>
+    <color name="cal_subtitle_description">#B3FFFFFF</color>
+    <color name="cal_input_field_hint_circular_button">#66FFFFFF</color>
+    <color name="cal_input_line">#33FFFFFF</color>
+
+    <color name="greyCFB">#7ACCCCCC</color>
+    <color name="color_login_btn">#F5D8D8D8</color>
+    <color name="conversational_cal_back_question_text_color">#80FFFFFF</color>
+    <color name="conversational_cal_options_text_color">#d9FFFFFF</color>
+    <color name="primary_text_color_light">#FFFFFF</color>
+    <color name="secondary_text_color_light">#B3FFFFFF</color>
+    <color name="hint_text_color_light">#80FFFFFF</color>
+    <color name="call_remote_action_text_color">#A8FFFFFF</color>
+    <color name="divider_color_light">#B3FFFFFF</color>
+    <color name="theme_text_color">#FF34495E</color>
+
+    <color name="profile_verification_timer">#C2C2C2</color>
+    <color name="profile_verification_timer_text">#FFFFFF</color>
+    <color name="profile_verification_timer_description">#CCFFFFFF</color>
+    <color name="profile_verification_skip">#80FFFFFF</color>
+    <!-- Free text search color -->
+    <color name="color_card_background">#FAFAFA</color>
+    <color name="color_fts_search_view_text">#34495E</color>
+    <color name="color_background">#F4F4F4</color>
+    <color name="color_black_opacity_55">#8C000000</color>
+    <color name="color_black_opacity_BD">#BD000000</color>
+    <color name="color_fts_zero_case">#959595</color>
+    <color name="color_try_again_search">#6F6F6F</color>
+
+    <color name="color_chat_background">#f4f4f4</color>
+    <color name="sync_background">#f9f9f9</color>
+    <color name="footer_bg">#F6F7FA</color>
+    <color name="selected_indicator">#FFD8D8D8</color>
+    <color name="default_indicator">#FFECE9E9</color>
+    <color name="count_band_yellow">#FEF5E6</color>
+    <color name="count_band_separator">#DCC6A1</color>
+    <color name="new_online_color">#FF17D53C</color>
+    <color name="about_me_chip_sel">#D9475C</color>
+    <color name="color_666">#666666</color>
+    <color name="myjs_vp_title_back">#FEF5E6</color>
+
+    <color name="selected_dot_color">#6698A3AF</color>
+    <color name="non_selected_dots_color">#E3E9EE</color>
+
+    <color name="hangout_list_subtitle">#768493</color>
+    <color name="hangout_banner_color">#F6F7FA</color>
+    <color name="hangout_timer_bg">#621627</color>
+    <color name="bg_shimmer">#F1F1F1</color>
+    <color name="color_white_400">#98A3AF</color>
+    <color name="cerise_red">#D8465C</color>
+    <color name="hangout_offline_circle_bg">#768493</color>
+    <color name="hangouts_title">#34495E</color>
+    <color name="hangouts_subtitle">#FECAD2</color>
+    <color name="shimmering_background">#F1F1F1</color>
+    <color name="color_shadow">#7A0012</color>
+    <color name="color_shadow_new">#1A4B6177</color>
+    <color name="video_overlay">#4D000000</color>
+    <color name="hangouts_white">#FFFFFF</color>
+
+    <color name="color_666666">#666666</color>
+    <color name="color_D9475A">#D9475A</color>
+    <color name="color_34495E">#34495E</color>
+    <color name="color_FFFFFF">#FFFFFF</color>
+    <color name="color_434343">#434343</color>
+
+    <color name="color_26CBA3">#26CBA3</color>
+    <color name="color_FECAD2">#FECAD2</color>
+    <color name="color_B10004">#B10004</color>
+    <color name="color_3E3E3E">#3E3E3E</color>
+   <color name="color_FFF4F6">#FFF4F6</color>
+    <color name="color_D9D9D9">#D9D9D9</color>
+    <color name="color_768493">#768493</color>
+    <color name="color_F6F7FA">#F6F7FA</color>
+    <color name="color_617488">#617488</color>
+    <color name="color_FEF5E6">#FEF5E6</color>
+    <color name="color_D8465C">#D8465C</color>
+    <color name="color_333333">#333333</color>
+    <color name="color_EBF1F8">#EBF1F8</color>
+    <color name="color_4B6177">#4B6177</color>
+    <color name="color_EF8A13">#EF8A13</color>
+    <color name="color_shadow_white">#1A4B6177</color>
+    <color name="color_shadow_green">#A4DCC0</color>
+    <color name="onfidoPrimaryButtonColor">#D8465C</color>
+    <color name="onfidoPrimaryButtonColorPressed">#A63244</color>
+    <color name="onfidoPrimaryButtonTextColor">#FFFFFF</color>
+    <color name="color_1E1E1E">#1E1E1E</color>
+    <color name="color_C4C9CF">#C4C9CF</color>
+</resources>

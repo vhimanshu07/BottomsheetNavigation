@@ -1,0 +1,23 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+
+
+    <!-- Application theme. -->
+
+    <style name="TextDesc">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@color/transparent</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <!-- START : Style for SRP Message above profile image -->
+    <style name="BaseStyleMessage">
+        <item name="android:padding">15sp</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="TextWhiteGreen" parent="@style/BaseStyleMessage">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@color/translucent_pink</item>
+    </style>
+</resources>

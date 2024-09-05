@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#34495e</color>
+    <color name="colorPrimaryDark">#1f2c38</color>
+
+    <color name="colorAccent">#d9475c</color>
+
+    <color name="color_divider">#c4c4c4</color>
+
+    <color name="color_disabled_chicklets">#D8D8D8</color>
+    <color name="color_disabled_text_chicklets">#4A4A4A</color>
+    <color name="color_font_about_me">#de2c2c2c</color>
+    <color name="color_font_default">#cc2c2c2c</color>
+    <color name="color_font_title">#34495E</color>
+    <color name="color_font_subtitle">#d4000000</color>
+    <color name="color_font_body">#cc2c2c2c</color>
+    <color name="color_button_text_default">@android:color/white</color>
+    <color name="registration_title">#8a000000</color>
+    <color name="profile_for_label_color">#9b9b9b</color>
+    <color name="set_profile_picture_label_color">#9b9b9b</color>
+    <color name="compound_button">#9b9b9b</color>
+    <color name="caste_no_bar_color">#9a9a9a</color>
+    <color name="color_featured_card">@color/grey6</color>
+    <color name="color_view_all_card">@color/grey9</color>
+    <color name="tab_layout_color_color">#a9a9a9</color>
+    <color name="filter_category_item_background">#e5e5e5</color>
+    <color name="selected_filter_result_count_color">#e5e7e9</color>
+    <color name="selected_paid_filter_result_count_color">#80e5e5e5</color>
+    <color name="similar_profile_last_online_text_color">#7b2c2c2c</color>
+
+    <color name="color_edit_header">#999999</color>
+    <color name="color_edit_header_light">#777777</color>
+    <color name="color_verification_title">#8B000000</color>
+    <color name="color_verification_content">#64000000</color>
+    <color name="bottomsheet_chip_color">#33000000</color>
+
+
+    <color name="color_header">#404040</color>
+    <color name="color_font_subheader">#6a6a6a</color>
+    <color name="color_description">#cd000000</color>
+    <color name="color_dpp_subtitle">#99000000</color>
+    <color name="color_last_login">#8a000000</color>
+    <color name="color_about_me_brief">#de2c2c2c</color>
+    <color name="color_contact_engine_text">#8affffff</color>
+    <color name="state_pressed_color">#b6263a</color>
+    <color name="color_button_disabled">#C5C3C4</color>
+    <color name="color_button_enabled">#d9475c</color>
+    <color name="color_button_gender_error">#FF0D0F</color>
+    <color name="color_request_photo_button_enabled">#C5C3C4</color>
+
+    <!--hamburger-->
+    <color name="hamburger_text_color">#C0000000</color>
+
+    <!--progress bar-->
+    <color name="progress_bar_container_background">#7FFFFFFF</color>
+    <color name="membership_progress_bar_container_background">#3D000000</color>
+
+    <!--my album-->
+    <color name="grey_plus">#9A9A9A</color>
+    <color name="add_photo_bg">#34495e</color>
+    <color name="add_more_bg">#D8D8D8</color>
+    <color name="white_transparent_60">#60FFFFFF</color>
+    <color name="black_transparent_60">#60000000</color>
+    <color name="all_6_color">#666666</color>
+    <color name="color_6">#666666</color>
+    <color name="colorMissedCallLabel">#B34A4A4A</color>
+    <color name="feedbacktext">#FF33495F</color>
+    <color name="feedcharcount">#FF9B9B9B</color>
+    <color name="text_view_color_66">#FF666666</color>
+    <color name="text_color_2c">#2C2C2C</color>
+</resources>

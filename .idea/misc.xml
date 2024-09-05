@@ -1,0 +1,53 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_back_white.xml" value="0.27239583333333334" />
+        <entry key="app/src/main/res/drawable/ic_cross.xml" value="0.27239583333333334" />
+        <entry key="app/src/main/res/drawable/ic_edit_cal.xml" value="0.27239583333333334" />
+        <entry key="app/src/main/res/drawable/ic_pending.xml" value="0.27239583333333334" />
+        <entry key="app/src/main/res/drawable/ic_verified.xml" value="0.27239583333333334" />
+        <entry key="app/src/main/res/drawable/ic_verified1.xml" value="0.27239583333333334" />
+        <entry key="app/src/main/res/drawable/ic_verified_2.xml" value="0.27239583333333334" />
+        <entry key="app/src/main/res/drawable/ic_verified_3.xml" value="0.27239583333333334" />
+        <entry key="app/src/main/res/drawable/ic_verified_4.xml" value="0.27239583333333334" />
+        <entry key="app/src/main/res/drawable/ic_verified_5.xml" value="0.27239583333333334" />
+        <entry key="app/src/main/res/drawable/ic_verified_6.xml" value="0.27239583333333334" />
+        <entry key="app/src/main/res/drawable/ic_verified_7.xml" value="0.27239583333333334" />
+        <entry key="app/src/main/res/drawable/ic_verified_8.xml" value="0.27239583333333334" />
+        <entry key="app/src/main/res/drawable/ic_verified_medium.xml" value="0.27239583333333334" />
+        <entry key="app/src/main/res/drawable/ic_verified_percentage.xml" value="0.27239583333333334" />
+        <entry key="app/src/main/res/drawable/registration_form_submit_button_background.xml" value="0.27239583333333334" />
+        <entry key="app/src/main/res/drawable/registration_form_submit_button_selector.xml" value="0.27239583333333334" />
+        <entry key="app/src/main/res/drawable/top_corners_rounded_blue.xml" value="0.27239583333333334" />
+        <entry key="app/src/main/res/drawable/top_corners_rounded_white.xml" value="0.27239583333333334" />
+        <entry key="app/src/main/res/drawable/top_cornor_card_white.xml" value="0.27239583333333334" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.12462006079027356" />
+        <entry key="app/src/main/res/layout/chicklet_lock_verified.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/divider_horizontal.xml" value="0.12462006079027356" />
+        <entry key="app/src/main/res/layout/fragment_item_list_dialog_list_dialog.xml" value="0.11778115501519756" />
+        <entry key="app/src/main/res/layout/fragment_item_list_dialog_list_dialog2.xml" value="0.10733695652173914" />
+        <entry key="app/src/main/res/layout/fragment_item_list_dialog_list_dialog_item.xml" value="0.12462006079027356" />
+        <entry key="app/src/main/res/layout/fragment_mainactivityfragment.xml" value="0.12462006079027356" />
+        <entry key="app/src/main/res/layout/information_screen_separator.xml" value="0.12462006079027356" />
+        <entry key="app/src/main/res/layout/layou_profile_verification_scan_doc.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/layout_profile_verification_entry.xml" value="0.12462006079027356" />
+        <entry key="app/src/main/res/layout/layout_profile_verification_failure.xml" value="0.12462006079027356" />
+        <entry key="app/src/main/res/layout/layout_profile_verification_failure_mandatory.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/layout_profile_verification_intro.xml" value="0.12462006079027356" />
+        <entry key="app/src/main/res/layout/layout_profile_verification_item.xml" value="0.12462006079027356" />
+        <entry key="app/src/main/res/layout/layout_profile_verification_otp.xml" value="0.12462006079027356" />
+        <entry key="app/src/main/res/layout/layout_profile_verification_pending.xml" value="0.12462006079027356" />
+        <entry key="app/src/main/res/layout/layout_profile_verification_successful.xml" value="0.12462006079027356" />
+        <entry key="app/src/main/res/layout/layout_profile_verification_validation.xml" value="0.12462006079027356" />
+        <entry key="app/src/main/res/layout/layout_scan_doc.xml" value="0.12462006079027356" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
